@@ -1,0 +1,105 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "title": "Wireless Mouse",
+        "category": "Electronics",
+        "date": "2024-01-10T00:00:00Z",
+        "price": 29.99,
+        "description": "A smooth and responsive wireless mouse.",
+        "stock": 100,
+        "rating": 4.3
+      },
+      {
+        "id": 2,
+        "title": "Bluetooth Speaker",
+        "category": "Electronics",
+        "date": "2023-12-15T00:00:00Z",
+        "price": 49.99,
+        "description": "Portable Bluetooth speaker with clear sound.",
+        "stock": 80,
+        "rating": 4.7
+      },
+      {
+        "id": 3,
+        "title": "Office Chair",
+        "category": "Furniture",
+        "date": "2024-03-05T00:00:00Z",
+        "price": 199.99,
+        "description": "Ergonomic chair with lumbar support.",
+        "stock": 25,
+        "rating": 4.5
+      },
+      {
+        "id": 4,
+        "title": "Yoga Mat",
+        "category": "Sports",
+        "date": "2023-11-01T00:00:00Z",
+        "price": 15.99,
+        "description": "Non-slip yoga mat for home workouts.",
+        "stock": 200,
+        "rating": 4.1
+      },
+      {
+        "id": 5,
+        "title": "Water Bottle",
+        "category": "Sports",
+        "date": "2024-02-10T00:00:00Z",
+        "price": 9.99,
+        "description": "Stainless steel insulated water bottle.",
+        "stock": 150,
+        "rating": 4.8
+      },
+      {
+        "id": 6,
+        "title": "LED Desk Lamp",
+        "category": "Electronics",
+        "date": "2024-01-20T00:00:00Z",
+        "price": 34.99,
+        "description": "Adjustable LED lamp with touch controls.",
+        "stock": 60,
+        "rating": 4.4
+      },
+      {
+        "id": 7,
+        "title": "Notebook Set",
+        "category": "Stationery",
+        "date": "2023-09-25T00:00:00Z",
+        "price": 12.5,
+        "description": "Set of 3 notebooks with dotted pages.",
+        "stock": 120,
+        "rating": 4.2
+      },
+      {
+        "id": 8,
+        "title": "Gaming Keyboard",
+        "category": "Electronics",
+        "date": "2024-02-28T00:00:00Z",
+        "price": 89.99,
+        "description": "Mechanical keyboard with RGB lighting.",
+        "stock": 45,
+        "rating": 4.6
+      },
+      {
+        "id": 9,
+        "title": "Cookware Set",
+        "category": "Home & Kitchen",
+        "date": "2023-10-18T00:00:00Z",
+        "price": 149.99,
+        "description": "10-piece nonstick cookware set.",
+        "stock": 30,
+        "rating": 4.0
+      },
+      {
+        "id": 10,
+        "title": "Sunglasses",
+        "category": "Fashion",
+        "date": "2023-08-05T00:00:00Z",
+        "price": 25.0,
+        "description": "UV400 protected stylish sunglasses.",
+        "stock": 70,
+        "rating": 4.3
+      }
+    ]
+  }
+  
